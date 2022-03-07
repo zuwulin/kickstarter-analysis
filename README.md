@@ -8,10 +8,12 @@ The goal is to establish the trends in the theater-related Kickstarter environme
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99566803/157083064-dcf6fbf9-af52-489d-ad9b-c57fecd033dd.png)
+
 The Kickstarter data was examined in relation to campaign successes across various months throughout the year. As can be seen on the associated graph ("Theater Outcomes Based on Launch Date"), theater performance Kickstarters were most successful if they were launched in or around the month of May (with May itself amounting to almost 110 successful launches). Contrary, the least favourable months to launch a theater Kickstarter seems to be around the New Year - both in December and January, with December specifically having an equal amount of successful and failed campaigns, suggesting it might be a risky move to start a campaign during this time.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99566803/157083080-f034b1f6-ff13-4e2a-b063-df8f1be3b433.png)
+
 Additionally, the success of previously launched theater Kickstarters was examined in relation to the predetermined monetary campaign goals. The data (which can be seen in "Outcome Based on Goal" graph) suggests that there is a fairly steady trend for campaigns to have a higher failure rate with higher monetary goals. As such, for instance, none of the campaigns in the 45000 to 50000$ range were successful in their completion. Correspondigly, the highest number of succesful campaigns was associated with lower pledging goals, with Kickstarters asking for less than 1000$ in donations seeing an almost 80% success rate of completion.
 
 ### Challenges and Difficulties Encountered
