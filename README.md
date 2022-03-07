@@ -19,11 +19,8 @@ One problem that arises in regards to the current analysis is the unpredictable 
 ### Challenges and Difficulties Encountered
 
 ## Results
+To sum up the analysis, two points can be taken away from the Outcomes based on Launch Date data. First is that one might consider May as their launch month if they are seeking to secure the chances of a successful Kickstarter (followed closely by the month of June). Second, with the same idea in mind, a person trying to establish a successful theatre Kickstarter should avoid launching their campaign in the months of December and January, as they are seen as having the lowest success rate among the examined months.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+For the Outcomes based on Goals data, the main takeaway is that the less money a campaign is trying to raise, the bigger the chances that such a campaign would be funded in full. As such, aiming for a lower to medium-sized pledging goal should be considered optimal.
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+One should keep in mind, however, that the current dataset is severely limited: the amount of campaigns examined is far less significant than the actuality of Kickstarter campaigns' load, the dataset only represents a span of three consequtive years between 2014 and 2016, making it somewhat outdated, and it excluded any live campaigns that are still currently undergoing the funding process. Further expanding the dataset would be beneficial for future analysis of the data, and interested parties might find it optimal to examine other factors, such as the estimated campaign lenght, the extend of the projects themselves (how big or small they might be), or the amount of pledgers supporting various causes to facilitate their Kickstarter campaign decisions.
