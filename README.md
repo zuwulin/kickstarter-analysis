@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The goal is to establish the trends in the theater-related kickstarter environment: whether the predetermined monetary goals and the time when the kickstarters are introduced have an effect on the chances of successful outcomes for said projects. Over 4000 previosly lauched kickstarter campaigns have been analyzed to investigate these trends.
+The goal is to establish the trends in the theater-related kickstarter environment: whether the predetermined monetary goals and the time when the kickstarters are introduced have an effect on the chances of successful outcomes for said projects. Over 4000 various previosly lauched kickstarter campaigns have been analyzed to investigate these trends of interest.
 ### Purpose
 
 ## Analysis and Challenges
