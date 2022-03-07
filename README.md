@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The goal is to establish the trends in the theater-related kickstarter environment: whether the predetermined monetary goals and the time when the kickstarters are introduced have an effect on the chances of successful outcomes for said projects. Over 4000 various previosly lauched kickstarter campaigns have been analyzed to investigate these trends of interest.
+Kickstarter is a powerful platform that allows people to launch their start-ups with the help of donations from the strangers (i.e., pledgers). In past, kickstarter has been used to fund campaigns ranging from video games and short movies to food restaurants and theater performances. The current analysis is performed to help our client investigate the trends in previously executed theater campaigns to determine the most favourable conditions for a successful kickstarter launch.
 ### Purpose
-
+The goal is to establish the trends in the theater-related kickstarter environment: whether the predetermined monetary goals and the time when the kickstarters are introduced have an effect on the chances of successful outcomes for said projects. Over 4000 various previosly lauched kickstarter campaigns have been analyzed to investigate these trends of interest.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
